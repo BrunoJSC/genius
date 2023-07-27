@@ -1,4 +1,4 @@
-# Simple Simon Game
+# Simple Genius Game
 
 Este é um jogo simples em que você precisa repetir a sequência de cores gerada aleatoriamente. O jogo vai aumentando o nível a cada sequência correta.
 
@@ -14,4 +14,4 @@ Pressione qualquer tecla para começar o jogo. O jogo mostrará uma sequência d
 - Continue acertando para aumentar o nível do jogo.
 - Se errar, o jogo terminará e você precisará recomeçar pressionando qualquer tecla.
 
-Divirta-se jogando o Simple Simon Game!
+Divirta-se jogando o Simple Genius Game!
